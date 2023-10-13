@@ -1,0 +1,20 @@
+Name: Malleboina karthik Srinivas
+
+
+---These are the steps to play the Tictactoe game:---
+
+1. Activate the virtual environment in the command prompt.
+
+2. Go to the venv\tictactoe directory to start the app.
+
+3. Type "python manage.py runserver" in the command prompt.
+
+4. It will show a URL starting with http://127.0.0.1:8000/. Open this URL in a web browser.
+
+5. Play the game.
+
+6. Click on "reset" after each game to clear the board and restart the game.
+
+7. To exit, type "ctrl+c" in the command prompt.
+
+8. To exit the virtual environment, go to Venv\scripts directory and type "deactivate".
